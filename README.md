@@ -4,7 +4,7 @@
 
 # Manoj Kumar R
 
-**Azure DevOps & Platform Engineer**
+**Azure DevOps & Platform Engineer · 4 years · Coimbatore, India**
 
 *Building enterprise cloud infrastructure that runs without human babysitting — automated, auditable, recoverable.*
 
@@ -16,17 +16,14 @@
 
 ---
 
-## About
+## What I Do
 
-3.6 years of production experience in Azure, Terraform, and CI/CD automation.
-Currently delivering enterprise **Azure Landing Zone (ALZ)** deployments at **LTIMindtree** using Terraform AVM modules, Azure DevOps Pipelines, and OIDC/Workload Identity Federation.
+At **LTIMindtree**, I build and automate enterprise Azure infrastructure — cross-tenant migration pipelines, RBAC repatriation systems, and validation frameworks covering 25+ Azure resource types.
 
-- **Delivered a single-region enterprise PLZ in under 1 week** — industry standard is 3–4 weeks
-- **Proposed and implemented** a hybrid 20/80 manual-automated deployment model adopted as team standard
-- **Maintained 99.9% production uptime** across multi-client Azure environments for 3 years
-- **75% reduction in deployment time** via PowerShell automation (1.5 hrs → 25 mins)
-- **Zero SLA breach** across 70+ weekly ITIL service requests
-- **Stellar Achiever (2023)** and **Quality Implementer (2024)** — Cognizant
+- **Enterprise Azure Platform Landing Zone delivered in 1 week** — industry standard is 3–4 weeks
+- **Cross-tenant migration pipeline** — mode switch in 2 file changes, zero pipeline code edits
+- **4-pipeline RBAC repatriation system** with automated scope resolution and safe rollback
+- **5 live AI SaaS tools** built alongside full-time work — all BYOK, zero hosting cost
 
 ---
 
@@ -42,13 +39,12 @@ Currently delivering enterprise **Azure Landing Zone (ALZ)** deployments at **LT
 
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 
 **Containers & Orchestration**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 
 **Scripting & Tools**
@@ -60,37 +56,39 @@ Currently delivering enterprise **Azure Landing Zone (ALZ)** deployments at **LT
 
 ---
 
-## Featured Repositories
+## Live Projects
 
-| Repo | What it does |
+| Tool | What it does |
 |---|---|
-| [Azure-Landing-Zones](https://github.com/manoj-2606/Azure-Landing-Zones) | Enterprise ALZ using Terraform AVM modules — Hub-Spoke, Azure Policy (DINE), RBAC, Private DNS, Log Analytics |
-| [azure-github-actions](https://github.com/manoj-2606/azure-github-actions) | Passwordless Azure auth via OIDC/Workload Identity Federation — 160+ structured commits |
-| [Terraform](https://github.com/manoj-2606/Terraform) | Progressive HCL modules — VMs, VNets, AKS, remote state, workspaces, AVM patterns |
-| [My-Projects](https://github.com/manoj-2606/My-Projects) | Microservices CI/CD — Docker, Argo CD, GitOps sync, Django containerisation |
+| [SENTINEL](https://sentinel-ai-beta-smoky.vercel.app) | Turn incidents into structured runbooks — diagnosis, fix steps, escalation path |
+| [DevOps Interview Copilot](https://devops-interview-copilot.vercel.app) | AI-evaluated interview practice for DevOps & SRE roles |
+| [AI DevOps Incident Copilot](https://ai-dev-ops-incident-copilot.vercel.app) | Paste pipeline logs → get root cause, severity, and fix steps |
+| [Kubernetes YAML Validator](https://kubernetes-yaml-validator.vercel.app) | Validate any K8s manifest, get AI-corrected YAML back |
+| [Azure Pipeline YAML Generator](https://azure-pipeline-yaml-generator.vercel.app) | Generate production-ready ADO pipeline YAML from a guided UI |
 
 ---
 
 ## Engineering Principles
 
 ```
-IaC-First           → Infrastructure lives in Git, never in the portal
-Zero-Secrets        → OIDC and Managed Identity over credentials — always
-Automate Before You Repeat → If a task runs twice, it gets scripted on the third
-Documentation Ships with Code → Every deployment has a runbook
+IaC-First                      → Infrastructure lives in Git, never in the portal
+Zero-Secrets                   → OIDC and Managed Identity over credentials — always
+Automate Before You Repeat     → If a task runs twice, it gets scripted on the third
+Documentation Ships with Code  → Every deployment has a runbook
 ```
 
 ---
 
 ## Certifications
 
+- **Claude Certified Associate** — Foundations · Anthropic · 2026
 - **Microsoft AZ-900** — Azure Fundamentals · 2024
 
 ---
 
 <div align="center">
 
-*Open to senior Azure DevOps and Platform Engineering roles*
+*Open to senior Azure DevOps and Platform Engineering roles in the Netherlands · Finland · Sweden · Ireland*
 
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-00e5ff?style=for-the-badge)](https://manoj-2606.github.io)
 
