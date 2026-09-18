@@ -31,7 +31,7 @@ At **LTIMindtree**, I build and automate enterprise Azure infrastructure — cro
 
 **Cloud & IaC**
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure]
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![ALZ](https://img.shields.io/badge/Azure_Landing_Zones-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
@@ -88,7 +88,7 @@ Documentation Ships with Code  → Every deployment has a runbook
 
 <div align="center">
 
-*Open to senior Azure DevOps and Platform Engineering roles in the Netherlands · Finland · Sweden · Ireland*
+*Open to senior Azure DevOps and Platform Engineering roles*
 
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-00e5ff?style=for-the-badge)](https://manoj-2606.github.io)
 
