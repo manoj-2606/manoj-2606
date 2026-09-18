@@ -31,7 +31,7 @@ At **LTIMindtree**, I build and automate enterprise Azure infrastructure — cro
 
 **Cloud & IaC**
 
-![Azure]
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![ALZ](https://img.shields.io/badge/Azure_Landing_Zones-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
